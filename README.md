@@ -23,7 +23,7 @@
 ```
 - New Repo created
 - New pycharm project created
-.gitignore added
+- .gitignore added (if using pycharm)
 - README with comprehensive documentation added
 - test passed with pytest
 - naming convention followed as required
